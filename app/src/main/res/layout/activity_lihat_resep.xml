@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LihatResep"
+    android:orientation="vertical"
+    tools:ignore="ExtraText">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/gulaikambing"
+            android:id="@+id/imgmakanan"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Gulai Kambing"
+            android:textSize="30sp"
+            android:textColor="@color/black"
+            android:layout_marginTop="4dp"
+            android:id="@+id/judul"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/yellow"
+            android:layout_marginTop="4dp"
+            android:textSize="17sp"
+            android:text="Rate:4.7"
+            android:textStyle="bold"
+            android:id="@+id/rate"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/yellow"
+        android:layout_marginTop="10dp"
+        android:textSize="15sp"
+        android:text="Bahan"
+        android:textStyle="bold"
+        android:id="@+id/bahan"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/yellow"
+        android:layout_marginTop="2dp"
+        android:textSize="10sp"
+        android:text="• 500 gram daging kambing bertulang, potong kecil-kecil • 250 ml santan kental • 1 sd minyak goreng untuk menumis  • 3 cm kayu manis • 1 bunga lawang  • 3 butir cengkih • 2 butir kapulaga
+• 10 lembar daun kari • 1 buah tomat merah, iris tipis • Garam secukupnya"
+        android:id="@+id/isibahan"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/yellow"
+        android:layout_marginTop="10dp"
+        android:textSize="15sp"
+        android:text="Bumbu Halus"
+        android:textStyle="bold"
+        android:id="@+id/bumbuhalus"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/yellow"
+            android:layout_marginTop="2dp"
+            android:textSize="10sp"
+            android:text="• 500 gram daging kambing bertulang, potong kecil-kecil • 250 ml santan kental • 1 sd minyak goreng untuk menumis  • 3 cm kayu manis • 1 bunga lawang  • 3 butir cengkih • 2 butir kapulaga
+• 10 lembar daun kari • 1 buah tomat merah, iris tipis • Garam secukupnya"
+            android:id="@+id/isibh"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/yellow"
+        android:layout_marginTop="5dp"
+        android:textSize="15sp"
+        android:text="Cara Membuat"
+        android:textStyle="bold"
+        android:id="@+id/caramembuat"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/yellow"
+        android:layout_marginTop="2dp"
+        android:textSize="10sp"
+        android:text="1. Tumis bumbu halus, tambahkan dengan kayu manis, cengkih, bunga lawang, daun kari, dan kapulaga hingga keluar aroma harum.
+                                                                                                        2. Masukkan potongan kecil-kecil daging kambing bertulang, tumis hingga berubah warna.
+
+                                                                                                        3. Tuang santan kental dan irisan tomat. Masak hingga mendidih dan masukkan garam.
+
+                                                                                                                                            4. Masak hingga kuah kari mengental dan daging menjadi empuk. Kalau daging masih keras, tuang sedikit air dan masak hingga daging empuk.
+
+                                                                                                        5. Angkat dan hidangkan kari kambing aceh selagi masih panas."
+        android:id="@+id/isicm"/>
+
+</LinearLayout>
