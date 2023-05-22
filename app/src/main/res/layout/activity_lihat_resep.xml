@@ -28,7 +28,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textColor="@color/yellow"
+            android:textColor="@color/black"
             android:layout_marginTop="4dp"
             android:textSize="17sp"
             android:text="Rate:4.7"
@@ -38,7 +38,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textColor="@color/yellow"
+        android:textColor="@color/black"
         android:layout_marginTop="10dp"
         android:textSize="15sp"
         android:text="Bahan"
@@ -47,7 +47,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textColor="@color/yellow"
+        android:textColor="@color/black"
         android:layout_marginTop="2dp"
         android:textSize="10sp"
         android:text="• 500 gram daging kambing bertulang, potong kecil-kecil • 250 ml santan kental • 1 sd minyak goreng untuk menumis  • 3 cm kayu manis • 1 bunga lawang  • 3 butir cengkih • 2 butir kapulaga
@@ -57,7 +57,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textColor="@color/yellow"
+        android:textColor="@color/blaack"
         android:layout_marginTop="10dp"
         android:textSize="15sp"
         android:text="Bumbu Halus"
@@ -66,7 +66,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textColor="@color/yellow"
+            android:textColor="@color/black"
             android:layout_marginTop="2dp"
             android:textSize="10sp"
             android:text="• 500 gram daging kambing bertulang, potong kecil-kecil • 250 ml santan kental • 1 sd minyak goreng untuk menumis  • 3 cm kayu manis • 1 bunga lawang  • 3 butir cengkih • 2 butir kapulaga
@@ -77,7 +77,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textColor="@color/yellow"
+        android:textColor="@color/black"
         android:layout_marginTop="5dp"
         android:textSize="15sp"
         android:text="Cara Membuat"
@@ -86,7 +86,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textColor="@color/yellow"
+        android:textColor="@color/black"
         android:layout_marginTop="2dp"
         android:textSize="10sp"
         android:text="1. Tumis bumbu halus, tambahkan dengan kayu manis, cengkih, bunga lawang, daun kari, dan kapulaga hingga keluar aroma harum.
